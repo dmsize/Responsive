@@ -6,23 +6,23 @@
 /* BAGIAN NAVBAR */
 
 /* BAGIAN JUMBOTRON PAGE IMAGE */
-.jumbotron1 {
+.jumbotron {
     background-image: url(img/backgroundslide1.jpg);
     height: 732px;
     margin-left: -90px;
     margin-top:70px;
 }
-.jumbotron2 {
+.section1 {
     background-image: url(img/backgroundslide2.jpg);
     height: 732px;
     margin-left: -90px;
 }
-.jumbotron3 {
+.section2 {
     background-image: url(img/backgroundslide3.jpg);
     height: 732px;
     text-align: center;
 }
-.jumbotron4 {
+.section3 {
     background-image: url(img/backgroundslide4.jpg);
     height: 732px;
     margin-left: -90px;
@@ -31,60 +31,60 @@
 /* BAGIAN JUMBOTRON PAGE IMAGE */
 
 
-.jumbotron1 .display-4 {
+.jumbotron .display-4 {
     margin-top: -15px;
     margin-left: 45px;
 }
 
-.jumbotron2 .display-4 .draft2 {
+.section1 .display-4 .draft2 {
     margin-top: -15px;
     margin-left: 45px;
 }
 
-.jumbotron1 .lead {
+.jumbotron .lead {
     margin-left: 45px;
 }
 
-.jumbotron2 .lead {
+.section1 .lead {
     margin-left: 500px;
 }
 
-.jumbotron3 .lead {
+.section2 .lead {
     margin-top: 60px;
 }
 
-.jumbotron1 .p2 {
+.jumbotron .p2 {
     margin-top: -3px;
 }
 
-.jumbotron2 .display-4 {
+.section1 .display-4 {
     margin-top: -15px;
     margin-left: 45px;
 }
-.jumbotron1 .btndaftar {
+.jumbotron .btndaftar {
     margin-top: 135px;
     margin-left: 450px;
 }
 
-.jumbotron1 .btnplay {
+.jumbotron .btnplay {
     margin-top: 135px;
     margin-left: 10px;
 }
 
-.jumbotron3 .btnjointelegram {
+.section2 .btnjointelegram {
     margin-top: 25px;
     margin-left: 680px;
     padding-left: 40px;
     padding-right: 40px;
 }
 
-.jumbotron3 .teleword{
+.section2 .teleword{
     font-weight: bold;
     font-size: 10pt;
     margin-left: 680px;
 }
 
-.jumbotron1 .btndaftar {
+.jumbotron .btndaftar {
     color: #8148E4;
     font-weight: bold;
     background-color: #FFFFFF;
@@ -93,7 +93,7 @@
     border-radius: 10px;
 }
 
-.jumbotron1 .btnplay {
+.jumbotron .btnplay {
     color: #8148E4;
     font-weight: bold;
     background-color: #FFFFFF;
@@ -102,7 +102,7 @@
     border-radius: 10px;
 }
 
-.jumbotron3 .btnjointelegram {
+.section2 .btnjointelegram {
     color: #ffffff;
     font-weight: bold;
     background-color: #8148E4;
@@ -111,7 +111,7 @@
     border-radius: 10px;
 }
 
-.jumbotron4 .btncontactus {
+.section3 .btncontactus {
     color: #ffffff;
     font-weight: bold;
     background-color: #8148E4;
